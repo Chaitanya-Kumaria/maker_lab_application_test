@@ -68,10 +68,10 @@ with st.sidebar:
     llm_model = st.selectbox(
         "LLM Model",
         [
+            "meta-llama/Llama-3.2-3B-Instruct",
             "mistralai/Mistral-7B-Instruct-v0.2",
             "HuggingFaceH4/zephyr-7b-beta",
             "microsoft/Phi-3-mini-4k-instruct",
-            "meta-llama/Llama-3.2-3B-Instruct",
             "google/gemma-2-2b-it"
         ],
         help="Language model for generating answers (chat-optimized models)"
