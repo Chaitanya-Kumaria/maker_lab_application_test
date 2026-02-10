@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+numpy
+langchain
+langchain-community
+faiss-cpu
+huggingface_hub
