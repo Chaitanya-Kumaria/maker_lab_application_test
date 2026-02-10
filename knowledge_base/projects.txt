@@ -1,0 +1,9 @@
+Project: College Div Wars Tournament Application
+Description: Developed an application to manage and track tournament progress.
+Tools Used: Python, SQL
+Impact: Streamlined event management and improved participant experience.
+
+Project: Power BI Dashboard for College
+Description: Designed interactive dashboards for academic and extracurricular data.
+Tools Used: Power BI, Excel
+Impact: Enhanced decision-making and visualization of key metrics.

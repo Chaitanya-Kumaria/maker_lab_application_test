@@ -1,0 +1,20 @@
+Experience: Business Analyst
+Organization: Rebel Foods
+Details:
+- Worked on data-driven decision-making for business operations.
+- Conducted analysis to optimize processes and improve efficiency.
+- Collaborated with cross-functional teams to align strategy with execution.
+
+Experience: AI Engineer
+Organization: Akaike Technologies
+Details:
+- Designed and deployed machine learning models for client projects.
+- Focused on AI-driven solutions for predictive analytics and automation.
+- Contributed to end-to-end model lifecycle: data preprocessing, training, and deployment.
+
+Experience: Academic and Project Work
+Details:
+- Built applications and dashboards for college-level tournaments and analytics.
+- Conducted exploratory data analysis (EDA) on large datasets.
+- Designed case studies and teaching notes for MBA interview preparation.
+- Created Python scripts and Excel frameworks for prioritization and decision-making.

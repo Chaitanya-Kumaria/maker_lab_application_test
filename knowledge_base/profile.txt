@@ -1,0 +1,8 @@
+Name: Chaitanya Kumaria
+Education: PGDM in Information Management and Analytics from SPJIMR, BS. Data Science from IIT Madras, B.Sc. Mathematics from University of Delhi
+Skills: Python, Data Science, Machine Learning, Data Analysis, Data Visualization, Data Mining, Data Engineering, Data Science
+Interests: Data Science, Strategy Consulting, Data Analysis,Sports Analytics, Financial Analytics
+Projects: Developed application for college Div wars tournament, Power BI Dashboard for college
+Career Goals: Product Management, Strategy Consulting ( Short term) and CTO (Long term)
+Achievements: Silver Medalist in Mathematics from University of Delhi,
+Certifications: Microsoft Certified: Azure AI Engineer Associate

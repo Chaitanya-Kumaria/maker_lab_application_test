@@ -1,0 +1,27 @@
+Skill: Python
+Level: Advanced
+Used In: Data analysis, ML projects, automation scripts
+
+Skill: Data Science
+Level: Advanced
+Used In: Predictive modeling, analytics, case studies
+
+Skill: Machine Learning
+Level: Advanced
+Used In: Classification, regression, model deployment
+
+Skill: Data Analysis
+Level: Advanced
+Used In: Business case studies, sports analytics, financial analytics
+
+Skill: Data Visualization
+Level: Intermediate
+Used In: Power BI dashboards, strategic presentations
+
+Skill: Data Mining
+Level: Intermediate
+Used In: Extracting insights from structured/unstructured datasets
+
+Skill: Data Engineering
+Level: Intermediate
+Used In: Building pipelines, preprocessing large datasets

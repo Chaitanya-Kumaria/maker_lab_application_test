@@ -1,0 +1,6 @@
+Achievement: Silver Medalist in Mathematics
+Institution: University of Delhi
+Details: Awarded for outstanding academic performance in Mathematics.
+
+Certification: Microsoft Certified: Azure AI Engineer Associate
+Details: Validated expertise in AI solutions on Microsoft Azure.
